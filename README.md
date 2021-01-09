@@ -1,6 +1,6 @@
 # perception
 
-Artificat Hosting Repository for all the perception tasks. 
+Artifact Hosting Repository for all the perception tasks. 
 
 Repository hosts following packages as pre-built binaries 
 
